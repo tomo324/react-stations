@@ -1,7 +1,11 @@
 // @ts-check
 
 export const Header = () => {
-  return <></>
+  return (
+    <header className='header'>
+      headerテスト
+    </header>
+  )
 }
 
 export default Header
